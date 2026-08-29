@@ -36,7 +36,25 @@ Presentación construida en Quarto y reveal.js con vistas interactivas en JavaSc
 **[→ Ver la presentación](https://cpizarrof.github.io/deprivacion-multivariante/)** ·
 [Código en R y Python](https://github.com/cpizarrof/deprivacion-multivariante/tree/main/codigo)
 
-### [PENDIENTE — Diseño y análisis de encuestas](https://github.com/cpizarrof)
+### [Percepción de la Gestión Institucional Preventiva](https://github.com/cpizarrof/pgip-psicometria)
+
+Construcción y validación de una escala que mide cómo los apoderados perciben la gestión
+preventiva de la violencia escolar, sobre **171.797 casos** del Simce 2024. La base se
+ensambló uniendo tres fuentes —cuestionario de apoderados, resultados de la Agencia de
+Calidad y Directorio Oficial del Mineduc— por el Rol Base de Datos.
+
+La escala resultó unidimensional y consistente (**α ≈ 0,88**), e invariante frente a
+grupo socioeconómico, dependencia, ruralidad y orientación religiosa. Las brechas entre
+grupos resultan estadísticamente significativas pero **sustantivamente irrelevantes**:
+explican menos del **0,5 %** de la varianza. Y el patrón no es el esperado — el GSE
+**Medio Alto** puntúa más bajo (68,0) que el GSE **Bajo** (72,2), lo que apunta a un
+sesgo de referencia más que a una diferencia real de gestión.
+
+Análisis de ítems, confiabilidad por Teoría Clásica de los Tests, análisis factorial
+confirmatorio con `lavaan`, invarianza, validez convergente y divergente con corrección
+por atenuación, y construcción de una métrica escalar 0–100.
+
+**[→ Ver la presentación](https://cpizarrof.github.io/pgip-psicometria/)**
 
 ## Contacto
 
