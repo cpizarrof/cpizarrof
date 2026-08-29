@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="banner.png" alt="Carlos Pizarro — Ingeniería Estadística, Universidad de Santiago de Chile" width="100%">
+</div>
+
 # Hola, soy Carlos
 
 Estudiante de **Ingeniería Estadística** en la Universidad de Santiago de Chile, con
@@ -55,4 +59,3 @@ confirmatorio con `lavaan`, invarianza, validez convergente y divergente con cor
 por atenuación, y construcción de una métrica escalar 0–100.
 
 **[→ Ver la presentación](https://cpizarrof.github.io/pgip-psicometria/)**
-
