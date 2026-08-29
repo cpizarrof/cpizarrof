@@ -12,6 +12,7 @@ cualquiera pueda reproducirlo.
 - 🎓 Busco práctica profesional en análisis de datos y estadística aplicada.
 - 🧮 Trabajo en **R** y **Python**, documento con **Quarto** y versiono con **Git**.
 - 🗣️ Hago clases de matemáticas desde 2018. Explicar bien un resultado es parte del oficio.
+- 📄 **[Currículum](https://cpizarrof.github.io/cv/)**
 
 ## Tecnologías y herramientas
 
