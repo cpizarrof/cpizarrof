@@ -56,8 +56,3 @@ por atenuación, y construcción de una métrica escalar 0–100.
 
 **[→ Ver la presentación](https://cpizarrof.github.io/pgip-psicometria/)**
 
-## Contacto
-
-- 📫 [p.carlosignacio97@gmail.com](mailto:p.carlosignacio97@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/carlos-pizarro-fuentes)
-
