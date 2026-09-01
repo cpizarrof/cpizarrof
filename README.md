@@ -2,9 +2,7 @@
   <img src="banner.png" alt="Carlos Pizarro — Ingeniería Estadística, Universidad de Santiago de Chile" width="100%">
 </div>
 
-# Hola, soy Carlos
-
-Estudiante de **Ingeniería Estadística** en la Universidad de Santiago de Chile, con
+Hola, soy estudiante de **Ingeniería Estadística** en la Universidad de Santiago de Chile, con
 formación previa en Ingeniería Matemática. Me interesa el análisis multivariante aplicado
 a datos territoriales y sociales, y que el trabajo quede documentado de forma que
 cualquiera pueda reproducirlo.
@@ -19,7 +17,7 @@ cualquiera pueda reproducirlo.
 - **Lenguajes:** R · Python · SQL · LaTeX
 - **Análisis y visualización:** RStudio · Quarto · tidyverse · ggplot2 · reveal.js
 - **Control de versiones:** Git · GitHub · GitHub Pages
-- **Otras:** Stata · Matlab · Java
+- **Otras:** Stata · Matlab · Java · SAS
 
 ## Proyectos destacados
 
