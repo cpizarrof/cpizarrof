@@ -17,7 +17,7 @@ cualquiera pueda reproducirlo.
 - **Lenguajes:** R · Python · SQL · LaTeX
 - **Análisis y visualización:** RStudio · Quarto · tidyverse · ggplot2 · reveal.js
 - **Control de versiones:** Git · GitHub · GitHub Pages
-- **Otras:** Stata · Matlab · Java · SAS
+- **Otras:** Excel · Matlab · Java · Stata · SAS
 
 ## Proyectos destacados
 
