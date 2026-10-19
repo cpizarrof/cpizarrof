@@ -10,11 +10,25 @@ Trabajo sobre todo con R, Python y SQL.
 
 ## Proyectos
 
-- [La deprivación urbana en Chile no es unidimensional](https://github.com/cpizarrof/deprivacion-multivariante):
-  análisis multivariante de las 4.843 zonas censales urbanas del Censo 2017
-  ([presentación](https://cpizarrof.github.io/deprivacion-multivariante/)).
-- [Percepción de la gestión preventiva en colegios](https://github.com/cpizarrof/pgip-psicometria):
-  construcción y validación de una escala con datos del Simce 2024
-  ([presentación](https://cpizarrof.github.io/pgip-psicometria/)).
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://cpizarrof.github.io/deprivacion-multivariante/"><img src="img/deprivacion-roc.png" alt="Curva ROC del índice de deprivación"></a>
+      <br>
+      <a href="https://github.com/cpizarrof/deprivacion-multivariante"><b>La deprivación urbana en Chile no es unidimensional</b></a>
+      <br>
+      Análisis multivariante de las 4.843 zonas censales urbanas del Censo 2017.
+      <a href="https://cpizarrof.github.io/deprivacion-multivariante/">Ver la presentación</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://cpizarrof.github.io/pgip-psicometria/"><img src="img/pgip-respuestas.png" alt="Respuestas de los apoderados a los seis ítems de la escala"></a>
+      <br>
+      <a href="https://github.com/cpizarrof/pgip-psicometria"><b>Percepción de la gestión preventiva en colegios</b></a>
+      <br>
+      Construcción y validación de una escala con datos del Simce 2024.
+      <a href="https://cpizarrof.github.io/pgip-psicometria/">Ver la presentación</a>
+    </td>
+  </tr>
+</table>
 
-Currículum: [cpizarrof.github.io/cv](https://cpizarrof.github.io/cv/) · carlos.pizarro.f@usach.cl
+[Currículum](https://cpizarrof.github.io/cv/) · [Portafolio](https://cpizarrof.github.io/Portafolio/) · [LinkedIn](https://www.linkedin.com/in/carlos-pizarro-fuentes/) · carlos.pizarro.f@usach.cl
