@@ -1,9 +1,8 @@
 # Carlos Pizarro Fuentes
 
 Estudiante de cuarto año de Ingeniería Estadística en la Universidad de Santiago de Chile.
-También trabajo en Gráfica Creativa SpA, la imprenta de mi familia. Partí ayudando con la
-cobranza y la facturación, y con el tiempo empecé a ordenar los datos de la empresa para
-responder preguntas del día a día: a qué compras de Mercado Público vale la pena postular,
+También trabajo en Gráfica Creativa SpA, la imprenta de mi familia. Ayudo con la cobranza y la
+facturación, y ordeno los datos de la empresa para responder preguntas del día a día: a qué compras de Mercado Público vale la pena postular,
 cuánto cobrar por un trabajo y cuánto deja realmente cada uno una vez pagados los costos.
 
 Trabajo sobre todo con R, Python y SQL.
