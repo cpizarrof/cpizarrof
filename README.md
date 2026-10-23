@@ -11,6 +11,16 @@ Trabajo sobre todo con R, Python y SQL.
 
 <table>
   <tr>
+    <td colspan="2" valign="top">
+      <a href="https://github.com/cpizarrof/sistema-grafica-creativa"><img src="img/sistema-grafica-creativa.jpg" alt="El Radar de Mercado Público en el computador y en el celular"></a>
+      <br>
+      <a href="https://github.com/cpizarrof/sistema-grafica-creativa"><b>Sistema de ventas y gestión de Gráfica Creativa</b></a>
+      <br>
+      Radar de Mercado Público, motor de ofertas y página de gestión de la imprenta: Python, JavaScript, SQLite y Cloudflare.
+      <a href="https://github.com/cpizarrof/sistema-grafica-creativa">Ver el caso</a>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://cpizarrof.github.io/deprivacion-multivariante/"><img src="img/deprivacion-roc.png" alt="Curva ROC del índice de deprivación"></a>
       <br>
